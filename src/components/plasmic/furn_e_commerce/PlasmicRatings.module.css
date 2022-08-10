@@ -1,0 +1,220 @@
+.root {
+  flex-direction: row;
+  display: flex;
+  position: relative;
+  width: 200px;
+}
+.root > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: calc(0px - 8px);
+  width: calc(100% + 8px);
+}
+.root > :global(.__wab_flex-container) > *,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.root > :global(.__wab_flex-container) > picture > img,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 8px;
+}
+.freeBox {
+  flex-direction: row;
+  display: flex;
+  position: relative;
+}
+.freeBox > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  margin-left: calc(0px - 5px);
+  width: calc(100% + 5px);
+}
+.freeBox > :global(.__wab_flex-container) > *,
+.freeBox > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox > :global(.__wab_flex-container) > picture > img,
+.freeBox
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 5px;
+}
+.svg___9I4Vp {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: var(--token-sq9a1Tot0K2c8M);
+  flex-shrink: 0;
+}
+.svgstars_zero___9I4VPdj5Ab {
+  display: none;
+}
+.svg__cWgr1 {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: var(--token-sq9a1Tot0K2c8M);
+  flex-shrink: 0;
+  display: none;
+}
+.svgstars_zero__cWgr1Dj5Ab {
+  display: none;
+}
+.svgstars_one__cWgr1W0Qci {
+  display: none;
+}
+.svg__omYag {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: var(--token-sq9a1Tot0K2c8M);
+  flex-shrink: 0;
+  display: none;
+}
+.svgstars_zero__omYagdj5Ab {
+  display: none;
+}
+.svgstars_one__omYagW0Qci {
+  display: none;
+}
+.svgstars_two__omYagdV2M8 {
+  display: none;
+}
+.svg__inhlL {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: var(--token-sq9a1Tot0K2c8M);
+  flex-shrink: 0;
+  display: none;
+}
+.svgstars_zero__inhlLdj5Ab {
+  display: none;
+}
+.svgstars_one__inhlLw0Qci {
+  display: none;
+}
+.svgstars_two__inhlLdV2M8 {
+  display: none;
+}
+.svgstars_three__inhlLkUy8O {
+  display: none;
+}
+.svg__kp946 {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: var(--token-sq9a1Tot0K2c8M);
+  flex-shrink: 0;
+  display: none;
+}
+.svgstars_zero__kp946Dj5Ab {
+  display: none;
+}
+.svgstars_one__kp946W0Qci {
+  display: none;
+}
+.svgstars_two__kp946DV2M8 {
+  display: none;
+}
+.svgstars_three__kp946KUy8O {
+  display: none;
+}
+.svgstars_four__kp9468FoN {
+  display: none;
+}
+.svg__czqLe {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: var(--token-2WYhEttBskH3AI);
+  flex-shrink: 0;
+  display: none;
+}
+.svgstars_one__czqLeW0Qci {
+  display: none;
+}
+.svgstars_two__czqLedV2M8 {
+  display: none;
+}
+.svgstars_three__czqLeKUy8O {
+  display: none;
+}
+.svgstars_four__czqLe8FoN {
+  display: none;
+}
+.svgstars_five__czqLeXyUj {
+  display: none;
+}
+.svg__db2J7 {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: var(--token-2WYhEttBskH3AI);
+  flex-shrink: 0;
+}
+.svgstars_two__db2J7DV2M8 {
+  display: none;
+}
+.svgstars_three__db2J7KUy8O {
+  display: none;
+}
+.svgstars_four__db2J78FoN {
+  display: none;
+}
+.svgstars_five__db2J7XyUj {
+  display: none;
+}
+.svg___1Wuzd {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: var(--token-2WYhEttBskH3AI);
+  flex-shrink: 0;
+}
+.svgstars_three___1WuzdKUy8O {
+  display: none;
+}
+.svgstars_four___1Wuzd8FoN {
+  display: none;
+}
+.svgstars_five___1WuzdXyUj {
+  display: none;
+}
+.svg__eD10V {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: var(--token-2WYhEttBskH3AI);
+  flex-shrink: 0;
+}
+.svgstars_four__eD10V8FoN {
+  display: none;
+}
+.svgstars_five__eD10VXyUj {
+  display: none;
+}
+.svg___4G5Wl {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: var(--token-2WYhEttBskH3AI);
+  flex-shrink: 0;
+}
+.svgstars_five___4G5WlXyUj {
+  display: none;
+}
+.slotTargetNumReviews {
+  font-size: 14px;
+  color: var(--token-tQRqDCxV2e3kAF);
+}

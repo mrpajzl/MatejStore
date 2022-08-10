@@ -1,0 +1,180 @@
+.root {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  transition-property: all;
+  transition-duration: 1s;
+  min-width: 0;
+  -webkit-transition-property: all;
+  -webkit-transition-duration: 1s;
+}
+.productBox:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.freeBox__wBou4 {
+  display: flex;
+  width: 100%;
+  height: 600px;
+  justify-content: space-between;
+  overflow: hidden;
+  min-width: 0;
+}
+.freeBox__vJ6Mh {
+  flex-direction: column;
+  display: flex;
+  position: relative;
+  width: 60%;
+  padding: 32px 24px;
+}
+.freeBox__vJ6Mh > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: center;
+  align-items: stretch;
+  margin-top: calc(0px - 12px);
+  height: calc(100% + 12px);
+}
+.freeBox__vJ6Mh > :global(.__wab_flex-container) > *,
+.freeBox__vJ6Mh > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__vJ6Mh > :global(.__wab_flex-container) > picture > img,
+.freeBox__vJ6Mh
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 12px;
+}
+.text {
+  position: relative;
+  font-size: 28px;
+  color: var(--token-L-b9RgjtILHtHD);
+}
+.productTextField__jiZ1J:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+  color: var(--token--AGj_c27cbF3Lg);
+  font-size: 40px;
+}
+.productTextField__wQrEg:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+  color: var(--token-tQRqDCxV2e3kAF);
+}
+.freeBox__flzV {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.freeBox__qhZrL {
+  display: flex;
+  position: relative;
+  height: 1px;
+  flex-direction: row;
+  width: 32px;
+  flex-shrink: 0;
+  border: 1px solid var(--token--AGj_c27cbF3Lg);
+}
+.productPrice:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+  color: var(--token--AGj_c27cbF3Lg);
+}
+.freeBox___4S8B9 {
+  flex-direction: row;
+  display: flex;
+  position: relative;
+  margin-top: calc(24px + 12px) !important;
+}
+.freeBox___4S8B9 > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  margin-left: calc(0px - 8px);
+  width: calc(100% + 8px);
+}
+.freeBox___4S8B9 > :global(.__wab_flex-container) > *,
+.freeBox___4S8B9 > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox___4S8B9 > :global(.__wab_flex-container) > picture > img,
+.freeBox___4S8B9
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 8px;
+}
+.linkButton__v0D0L:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
+.linkButton__iisGl:global(.__wab_instance) {
+  position: relative;
+  flex-shrink: 0;
+}
+.freeBox__nx64W {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 40%;
+  height: 100%;
+  min-height: 0;
+}
+.productMedia:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+  width: 100%;
+  object-fit: cover;
+  min-width: 0;
+}
+.freeBox__jlOup {
+  flex-direction: row;
+  display: flex;
+  position: relative;
+}
+.freeBox__jlOup > :global(.__wab_flex-container) {
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: calc(0px - 10px);
+  width: calc(100% + 10px);
+}
+.freeBox__jlOup > :global(.__wab_flex-container) > *,
+.freeBox__jlOup > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox__jlOup > :global(.__wab_flex-container) > picture > img,
+.freeBox__jlOup
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 10px;
+}
+.svg__cfDhA {
+  position: relative;
+  object-fit: cover;
+  color: var(--token-aBsY9SsHOvs9dE);
+  width: 1em;
+  flex-shrink: 0;
+  height: 1em;
+}
+.svg__fsCqJ {
+  position: relative;
+  object-fit: cover;
+  color: var(--token-aBsY9SsHOvs9dE);
+  width: 1em;
+  flex-shrink: 0;
+  height: 1em;
+}
+.svg__rD2J5 {
+  position: relative;
+  object-fit: cover;
+  color: var(--token-aBsY9SsHOvs9dE);
+  width: 1em;
+  flex-shrink: 0;
+  height: 1em;
+}
